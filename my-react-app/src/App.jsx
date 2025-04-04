@@ -131,7 +131,7 @@ const App = () => {
             name="0"
             onClick={click}
           >
-            0
+            00
           </button>
           <button
             name="."
