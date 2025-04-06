@@ -121,6 +121,12 @@ const App = () => {
             3
           </button>
           <button
+            name="3"
+            onClick={click}
+          >
+            3
+          </button>
+          <button
             className="highlight"
             name="+"
             onClick={click}
